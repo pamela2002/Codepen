@@ -5,6 +5,7 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- Screenshots
   ## Introduction
 
 The CodePen Online Community is an interactive web application designed for developers to test, showcase, and collaborate on user-created HTML, CSS, and JavaScript code snippets. Whether you're a beginner looking to learn or an experienced developer wanting to share your work, our platform provides a seamless experience for creating, sharing, and testing web code snippets.
@@ -40,6 +41,11 @@ To get started with the CodePen Online Community, follow these steps:
 3. **Share and Collaborate:** Share your code snippet with others by copying the URL. Leave comments, receive feedback, and collaborate with fellow developers.
 
 4. **Discover Snippets:** Use the search functionality to discover and explore code snippets created by the community.
+## Screenshots
+![2023-07-24 (1)](https://github.com/pamela2002/Codepen/assets/139626700/bf666b22-81d6-4c87-bdaa-974dae64d43a)
+![2023-07-24 (2)](https://github.com/pamela2002/Codepen/assets/139626700/3b36e1b6-b6ea-4ff5-8173-38ab0fc031af)
+![2023-07-24 (3)](https://github.com/pamela2002/Codepen/assets/139626700/ceb4cf8f-f34f-49c3-b7b7-1db71e8e75d5)
+![2023-07-24](https://github.com/pamela2002/Codepen/assets/139626700/54c30bcf-6f45-4f38-9245-08ed0a38e67d)
 
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
