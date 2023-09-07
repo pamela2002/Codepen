@@ -1,5 +1,47 @@
-# Getting Started with Create React App
+# CodePen Online Community
+## Table of Contents
+- [Introduction](#introduction)
+- Teach Stack Used
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+  ## Introduction
 
+The CodePen Online Community is an interactive web application designed for developers to test, showcase, and collaborate on user-created HTML, CSS, and JavaScript code snippets. Whether you're a beginner looking to learn or an experienced developer wanting to share your work, our platform provides a seamless experience for creating, sharing, and testing web code snippets.
+## Tech Stack Used
+1. HTML
+2. CSS
+3. ReactJS
+4. Material UI
+   ## Features
+
+- **Code Snippet Creation:** Easily create and edit HTML, CSS, and JavaScript code snippets within the platform.
+- **Live Preview:** Instantly visualize the results of your code changes with a live preview.
+- **Community Interaction:** Engage with a community of developers, leave comments, and collaborate on projects.
+- **Sharing:** Share your code snippets with a unique URL or embed them in your projects.
+- **Search Functionality:** Discover and explore a wide range of user-generated code snippets.
+- **Responsive Design:** The web app is fully responsive and works on various devices.
+
+## Getting Started
+
+To get started with the CodePen Online Community, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install the required dependencies.
+4. Start the development server.
+5. Open your web browser and go to `http://localhost:3000` to access the application.
+## Usage
+
+1. **Create a Code Snippet:** Click the "Create" button to start a new code snippet. Add your HTML, CSS, and JavaScript code in the provided editor.
+
+2. **Live Preview:** Observe the live preview of your code snippet as you make changes.
+
+3. **Share and Collaborate:** Share your code snippet with others by copying the URL. Leave comments, receive feedback, and collaborate with fellow developers.
+
+4. **Discover Snippets:** Use the search functionality to discover and explore code snippets created by the community.
+
+## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
